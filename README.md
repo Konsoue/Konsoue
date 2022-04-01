@@ -12,7 +12,9 @@
   </a>  
 </div>
 <br />
-我是前端界的小学生 Konsoue，除了热衷技术外，还喜欢玩玩音乐、看看相声，保持热爱生活。会点 JavaScript, React, Webpack 等，技能树还在继续点亮。不定时更新 github。
+<p>
+  我是前端界的小学生 Konsoue，除了热衷技术外，还喜欢玩玩音乐、看看相声，保持热爱生活。会点 JavaScript, React, Webpack 等，技能树还在继续点亮。不定时更新 github。
+</p>
 <strong>Languages and Tools:</strong>
 
 <div class="tools-container">
