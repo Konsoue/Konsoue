@@ -12,9 +12,8 @@
   </a>  
 </div>
 <br />
-<strong>Languages and Tools:</strong>
-
 我是前端界的小学生 Konsoue，除了热衷技术外，还喜欢玩玩音乐、看看相声，保持热爱生活。会点 JavaScript, React, Webpack 等，技能树还在继续点亮。不定时更新 github。
+<strong>Languages and Tools:</strong>
 
 <div class="tools-container">
   <a rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -31,6 +30,12 @@
   </a>  
 
 </div>
+
+## 我的其他站点
+
+- <span><img align="center" alt="Konsoue | 掘金" width="21px" src="https://raw.githubusercontent.com/Rain120/rain120/master/assets/juejin.svg" /><a href="https://juejin.cn/user/3281374180291934"> 掘金</a></span>
+
+- <span><img align="center" alt="Konsoue | 语雀" width="21px" src="https://gw.alipayobjects.com/mdn/prod_resource/afts/img/A*Z_fRQ5iLzX8AAAAAAAAAAAAAARQnAQ" /><a href="https://www.yuque.com/konsoue"> 语雀</a></span>
 
 <br />
 <div class="statistic-container">
