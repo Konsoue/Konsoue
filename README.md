@@ -7,9 +7,6 @@
   <a href="https://www.yuque.com/konsoue" target="_blank">
     <img align="center" alt="Konsoue | 语雀" width="21px" src="https://gw.alipayobjects.com/mdn/prod_resource/afts/img/A*Z_fRQ5iLzX8AAAAAAAAAAAAAARQnAQ" />
   </a>
-  <a href="https://github.com/Konsoue">
-    <img src="https://komarev.com/ghpvc/?username=Konsoue&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </a>  
 </div>
 <br />
 <p>
